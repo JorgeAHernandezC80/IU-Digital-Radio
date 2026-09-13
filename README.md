@@ -1,6 +1,6 @@
 # 📻 IU Digital Radio
 
-App de radio online para Android, hecha con Kotlin y Jetpack Compose. Es un proyecto de aprendizaje para el curso **Programación de Dispositivos Móviles** (IU Digital de Antioquia), así que el código todavía está en proceso de mejora — cada entrega le agrego algo nuevo y aprendo un poco más de Compose en el camino.
+App de radio online para Android, hecha con Kotlin y Jetpack Compose. Es un proyecto de aprendizaje para el curso **Programación de Dispositivos Móviles** (IU Digital de Antioquia), así que el código todavía está en proceso de mejora; cada entrega le agrego algo nuevo y aprendo un poco más de Compose en el camino.
 
 La app reproduce streams de radio en vivo, muestra un ecualizador visual que reacciona al audio real (no animaciones falsas) y tiene perillas de volumen/sintonización que se controlan con gestos.
 
