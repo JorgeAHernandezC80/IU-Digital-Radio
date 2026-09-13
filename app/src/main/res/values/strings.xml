@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">IU Digital Radio</string>
+    <string name="perfil_sin_foto">Sin foto</string>
+    <string name="tomar_foto">Tomar foto</string>
+    <string name="permiso_camara_denegado">Se necesita el permiso de cámara para continuar</string>
+</resources>

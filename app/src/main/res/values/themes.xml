@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.IUDigitalRadio" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <!-- Tema de arranque: se muestra mientras el sistema prepara la Activity,
+         antes de que Compose dibuje la pantalla real. No se fuerza un ícono
+         personalizado aquí: el sistema usa automáticamente el ícono adaptativo
+         de la app (android:icon), que ya está diseñado para esa zona segura y
+         se ve nítido. El logo grande y el nombre de la emisora se muestran en
+         nuestra propia pantalla de bienvenida (ver SplashPersonalizado en
+         MainActivity.kt), que aparece de inmediato con una animación fluida. -->
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/splash_background</item>
+        <item name="windowSplashScreenIconBackgroundColor">@color/splash_background</item>
+        <item name="postSplashScreenTheme">@style/Theme.IUDigitalRadio</item>
+    </style>
+</resources>
+

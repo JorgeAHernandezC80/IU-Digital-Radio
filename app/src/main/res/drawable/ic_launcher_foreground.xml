@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Vacío a propósito: todo el arte del ícono (logo de audífonos + ondas)
+     ya viene incluido en ic_launcher_background.png. Este layer transparente
+     solo existe porque el formato adaptive-icon exige background + foreground. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108" />
