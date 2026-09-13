@@ -39,8 +39,6 @@ IUDigitalRadio/
 
 ## Copyright
 
-**Español:**
-© 2026 Jorge A. Hernández. Este es un proyecto académico desarrollado para el curso Programación de Dispositivos Móviles de IU Digital de Antioquia, con fines exclusivamente educativos. Todos los derechos reservados por el autor; no está autorizado su uso comercial sin permiso.
+Ver el archivo [LICENSE](./LICENSE) para los términos completos (español e inglés).
 
-**English:**
-© 2026 Jorge A. Hernández. This is an academic project developed for the Mobile Device Programming course at IU Digital de Antioquia, for educational purposes only. All rights reserved by the author; commercial use is not authorized without permission.
+**Resumen:** © 2026 Jorge A. Hernández — Todos los derechos reservados. / All Rights Reserved.
